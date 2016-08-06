@@ -6,4 +6,8 @@ const nenem = function(msg) {
   console.log(msg);
 };
 
+const log = function(msg) {
+  console.log(msg)
+};
+
 export { epa, nenem };
