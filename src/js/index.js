@@ -1,11 +1,9 @@
-class ModuleNPM {
-  constructor() {
-    console.log('epa nenem :)');
-  }
-
-  epaNenem(msg) {
-    console.log(msg)
-  }
+const epa = function(msg) {
+  console.log(msg);
 }
 
-export new ModuleNPM();
+const nenem = function(msg) {
+  console.log(nenem);
+};
+
+export { epa, nenem };

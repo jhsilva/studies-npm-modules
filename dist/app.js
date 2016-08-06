@@ -44,13 +44,15 @@
 /* 0 */
 /***/ function(module, exports) {
 
-	class ModuleNPM {
-	  constructor() {
-	    console.log('epa nenem :)');
-	  }
+	const epa = function(msg) {
+	  console.log(msg);
 	}
 
-	export default ModuleNPM;
+	const nenem = function(msg) {
+	  console.log(nenem);
+	};
+
+	export { epa, nenem };
 
 
 /***/ }
