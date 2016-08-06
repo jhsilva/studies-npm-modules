@@ -1,0 +1,23 @@
+{
+  "name": "studies-npm-modules",
+  "version": "1.0.0",
+  "description": "Studies NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhsilva/studies-npm-modules.git"
+  },
+  "keywords": [
+    "Studies",
+    "NPM"
+  ],
+  "author": "jhsilva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhsilva/studies-npm-modules/issues"
+  },
+  "homepage": "https://github.com/jhsilva/studies-npm-modules#readme"
+}
