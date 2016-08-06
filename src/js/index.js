@@ -3,7 +3,7 @@ const epa = function(msg) {
 }
 
 const nenem = function(msg) {
-  console.log(nenem);
+  console.log(msg);
 };
 
 export { epa, nenem };
