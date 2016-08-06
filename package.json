@@ -2,7 +2,7 @@
   "name": "studies-npm-modules",
   "version": "1.0.1",
   "description": "Studies NPM",
-  "main": "./src/js/index.js",
+  "main": "./dist/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "webpack": "webpack --config webpack.config.babel.js"
