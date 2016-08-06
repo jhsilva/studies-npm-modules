@@ -1,6 +1,6 @@
 {
   "name": "studies-npm-modules",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Studies NPM",
   "main": "./src/app.js",
   "scripts": {
